@@ -15,6 +15,8 @@
 * 다운받은 폴더 Python-Project-master를 압축해제합니다.
 
 
+
+
 **2. 개발환경을 통해 다운받은 게임 실행하기.**
 * 개발환경에 pygame이 설치되어있지 않은 경우, 먼저 설치하고 게임을 실행시켜주십시오. 
 * 이 게임은 PyCharm 개발환경을 통해 만들었음을 밝힙니다.
@@ -29,6 +31,20 @@ i) Python + Visual Studio Code.
 ![게임실행2](https://user-images.githubusercontent.com/67762575/86418925-b872a600-bd0c-11ea-9511-9cce306f2edf.png)
 
 * 폴더 내에서 snakegame 파일을 클릭 한 뒤, 게임을 실행시킨다.
+
+
+
+ii) PyCharm
+
+![폴더 드래그](https://user-images.githubusercontent.com/67762575/86419208-7433d580-bd0d-11ea-969e-4de2a8accbea.png)
+
+* PyCharm에 아까 다운로드받은 폴더를 드래그해서 연다.
+
+![게임실행3](https://user-images.githubusercontent.com/67762575/86419219-78f88980-bd0d-11ea-83b4-d86df6646f6a.png)
+![게임실행4](https://user-images.githubusercontent.com/67762575/86419225-7b5ae380-bd0d-11ea-86b6-e4711648462a.png)
+
+
+* 아까와 마찬가지로 폴더 내에서 snakegame 파일을 클릭 한 뒤, 게임을 실행시킨다.
 
 
 
